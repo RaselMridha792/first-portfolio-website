@@ -146,3 +146,24 @@ main section{
 .what-section{
     padding: 0px 100px;
 }
+
+/* style resume section  */
+.resume-container{
+    display:flex;
+    gap: 24px;
+}
+.experience-sub-title{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.experience-description, .experience-sub-title{
+    color: #757575;
+}
+.resume hr{
+    margin: 30px 5px;
+}
+
+.re-download-btn{
+    margin-top: 50px; 
+}
