@@ -188,3 +188,6 @@ footer input[type="text"], input[type="email"], input[type="password"], textarea
     border: none;
     font-size: 16px;
 }
+.icons-container > a{
+    margin: 0px 10px;
+}
